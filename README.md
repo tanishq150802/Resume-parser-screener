@@ -15,7 +15,7 @@ By : [Tanishq Selot](https://github.com/tanishq150802)
 * Stanford NER (Name Entity Recognition)
 
 All the parser code is contained within **Resume_parser.ipynb**. 
-The screener code is contained within **Resume_screener.ipynb**.
+The screener model training is contained within **Resume_screener.ipynb**.
 
 ### Parser
 * For converting the resume file into text: doc2txt (for .docx) and pdfminer.six (for .pdf).
@@ -43,4 +43,4 @@ I plan on deploying the screener on a django Web App.
 
 ### References
 * [Stanford NER .jar file and caseless models](https://nlp.stanford.edu/software/CRF-NER.shtml)
-* [Screener Dataset](https://www.kaggle.com/datasets/gauravduttakiit/resume-dataset)
+* [Screener Dataset for training](https://www.kaggle.com/datasets/gauravduttakiit/resume-dataset)
